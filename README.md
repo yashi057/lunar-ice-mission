@@ -12,7 +12,7 @@
 
 <br/>
 
-**Team Innoventors** · Bharatiya Antariksh Hackathon 2026 · PS 08
+**Team Innovis** · Bharatiya Antariksh Hackathon 2026 · 
 
 *Adapting our Mars drone navigation AI to plan safe rover traverses on the Moon's south pole — using real Chandrayaan-2 radar data.*
 
@@ -51,7 +51,7 @@ We are building an AI-powered **Lunar Mission Planner** that:
 
 ---
 
-## 🎯 Problem Statement 08 — Plain Words
+## 🎯 Problem Statement 
 
 > *Full title: "Detection and Characterization of Subsurface Ice in Lunar South Polar Regions Using Chandrayaan-2 Radar and Imagery Data for Landing Site and Rover Traverse Planning"*
 
@@ -159,9 +159,8 @@ This is the core of our idea — every component we already built has a direct r
 | Role | Name | Responsibility |
 |------|------|----------------|
 | 🏅 **Team Leader** | Yashika Soni | Project architecture, RL environment, coordination |
-| 🤝 **Member 1** | `[TBD]` | `[TBD — see TEAM_TASKS.md]` |
-| 🤝 **Member 2** | `[TBD]` | `[TBD — see TEAM_TASKS.md]` |
-| 🤝 **Member 3** | `[TBD — optional]` | `[TBD]` |
+| 🤝 **Member 1** | Manisha Yadav | `[TBD — see TEAM_TASKS.md]` |
+| 🤝 **Member 2** | Kumkum Soni | `[TBD — see TEAM_TASKS.md]` |
 
 📋 **Task breakdown with deadlines:** [`docs/TEAM_TASKS.md`](./docs/TEAM_TASKS.md)
 
@@ -272,10 +271,7 @@ INNOVENTORS/
 - 🛰️ [ISRO PRADAN Data Portal](https://pradan.issdc.gov.in/) — Chandrayaan-2 DFSAR + OHRC data download
 - 📄 [Chandrayaan-2 DFSAR Paper (ISRO, 2023)](https://www.isro.gov.in/) — ice detection using CPR
 
-### Our Project
-- 🤗 [Live AstroNav Demo](https://Innoventors11-openenv-hackathon.hf.space)
-- 📚 [AstroNav API Docs](https://Innoventors11-openenv-hackathon.hf.space/docs)
-- 💻 [GitHub Repo](https://github.com/yashi057/INNOVENTORS)
+
 
 ### Learning (if you're new to RL or radar data)
 - 🎓 Start with `docs/PS08_BRIEF.md` — explains everything from zero
@@ -286,8 +282,8 @@ INNOVENTORS/
 
 <div align="center">
 
-**Team Innoventors** · BAH 2026 · PS 08
+**Team Innovis** · BAH 2026 
 
-*Built on AstroNav — from Mars to the Moon 🚀🌕*
+*Built on AstroNav — from Mars to the Moon Crater 🚀🌕*
 
 </div>
