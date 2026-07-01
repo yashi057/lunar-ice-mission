@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌕 AstroNav × ISRO BAH 2026
-### Problem Statement 08 — Subsurface Ice Detection, Lunar South Polar Region
+### Subsurface Ice Detection, Lunar South Polar Region
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
