@@ -11,7 +11,7 @@
 |---|------|--------|------|--------|
 | 1 | **Yashika Soni** (Leader) | [@yashi057](https://github.com/yashi057) | RL environment, architecture, coordination | 🟢 Active |
 | 2 | **Manisha Yadav** | [@manya011103](https://github.com/manya011103) | `[See tasks below]` | ⏳ TBD |
-| 3 | **Kumkum Soni | [@Kumkum-Mohit-07-06](https://github.com/Kumkum-Mohit-07-06) | `[See tasks below]` | ⏳ TBD |
+| 3 | **Kumkum Soni** | [@Kumkum-Mohit-07-06](https://github.com/Kumkum-Mohit-07-06) | `[See tasks below]` | ⏳ TBD |
 
 ---
 
