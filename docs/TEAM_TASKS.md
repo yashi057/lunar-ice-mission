@@ -10,9 +10,8 @@
 | # | Name | GitHub | Role | Status |
 |---|------|--------|------|--------|
 | 1 | **Yashika Soni** (Leader) | [@yashi057](https://github.com/yashi057) | RL environment, architecture, coordination | 🟢 Active |
-| 2 | `[Teammate 1]` | `[@TBD]` | `[See tasks below]` | ⏳ TBD |
-| 3 | `[Teammate 2]` | `[@TBD]` | `[See tasks below]` | ⏳ TBD |
-| 4 | `[Member 4 — optional]` | `[@TBD]` | `[TBD]` | ⏳ TBD |
+| 2 | **Manisha Yadav** | @manya011103(https://github.com/manya011103) | `[See tasks below]` | ⏳ TBD |
+| 3 | **Kumkum Soni | @Kumkum-Mohit-07-06(https://github.com/Kumkum-Mohit-07-06) | `[See tasks below]` | ⏳ TBD |
 
 ---
 
