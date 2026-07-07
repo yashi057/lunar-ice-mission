@@ -49,8 +49,8 @@
 |---|------|-------------|-------|--------|-------|
 | 3.1 | Create `lunar_env.py` | Adapt `astronav_env.py` for lunar terrain | Yashika | ⏳ | Swap random grid with real Chandrayaan-2 grid |
 | 3.2 | Update reward function | Ice cells = +10, Hazards = -15, same battery logic | Yashika | ⏳ | |
-| 3.3 | Run existing baseline on lunar grid | Test that `inference.py` works with new environment | `[TBD]` | ⏳ | Should work with minimal changes |
-| 3.4 | Train PPO/DQN agent | Use Stable-Baselines3 for proper training (not just greedy) | `[TBD]` | ⏳ | `pip install stable-baselines3` |
+| 3.3 | Run existing baseline on lunar grid | Test that `inference.py` works with new environment | Yashika | ⏳ | Should work with minimal changes |
+| 3.4 | Train PPO/DQN agent | Use Stable-Baselines3 for proper training (not just greedy) | Yashika | ⏳ | `pip install stable-baselines3` |
 
 ---
 
