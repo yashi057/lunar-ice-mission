@@ -30,9 +30,9 @@
 
 | # | Task | Description | Owner | Status | Notes |
 |---|------|-------------|-------|--------|-------|
-| 2.1 | Register on PRADAN | Create account on [pradan.issdc.gov.in](https://pradan.issdc.gov.in/) | `[TBD]` | ⏳ | Free account |
-| 2.2 | Download DFSAR data | CH2-Dual Frequency SAR, south polar region, lat -89° to -85° | `[TBD]` | ⏳ | GeoTIFF or HDF5 format |
-| 2.3 | Download OHRC imagery | CH2-OHRC optical images of same region | `[TBD]` | ⏳ | For crater/shadow detection |
+| 2.1 | Register on PRADAN | Create account on [pradan.issdc.gov.in](https://pradan.issdc.gov.in/) | Kumkum | ⏳ | Free account |
+| 2.2 | Download DFSAR data | CH2-Dual Frequency SAR, south polar region, lat -89° to -85° | Kumkum | ⏳ | GeoTIFF or HDF5 format |
+| 2.3 | Download OHRC imagery | CH2-OHRC optical images of same region | Kumkum | ⏳ | For crater/shadow detection |
 | 2.4 | Write `preprocess.py` | Load + normalize radar data using `rasterio` | `[TBD]` | ⏳ | See `/pipeline/` folder |
 | 2.5 | Write `ice_mapper.py` | CPR threshold analysis → flag ice-probable cells | `[TBD]` | ⏳ | CPR > 1.0 → probable ice |
 | 2.6 | Write `hazard_mapper.py` | Crater + shadow detection from OHRC → flag hazard cells | `[TBD]` | ⏳ | |
