@@ -153,11 +153,11 @@ Data format: GeoTIFF / HDF5 files. We read these using `rasterio`.
 
 ---
 
-## Part 6 — Hardware knowledge — do you need any?
+## Part 6 — Hardware — do you need any?
 
-**Short answer: NO.** Not for this hackathon.
+**Short answer: NO.** Not for now.
 
-PS 08 is a purely data-and-software problem. The hardware (Chandrayaan-2 satellite) is already in orbit doing its job. We just download and process the data it collected.
+this is a purely data-and-software problem. The hardware (Chandrayaan-2 satellite) is already in orbit doing its job. We just download and process the data it collected.
 
 Useful (NOT mandatory) background:
 - Rough idea of how SAR radar returns work (Google "SAR remote sensing basics" — 10 min read)
