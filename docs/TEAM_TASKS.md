@@ -10,8 +10,8 @@
 | # | Name | GitHub | Role | Status |
 |---|------|--------|------|--------|
 | 1 | **Yashika Soni** (Leader) | [@yashi057](https://github.com/yashi057) | RL environment, architecture, coordination | 🟢 Active |
-| 2 | **Manisha Yadav** | [@manya011103](https://github.com/manya011103) | `[See tasks below]` | ⏳ TBD |
-| 3 | **Kumkum Soni** | [@Kumkum-Mohit-07-06](https://github.com/Kumkum-Mohit-07-06) | `[See tasks below]` | ⏳ TBD |
+| 2 | **Manisha Yadav** | [@manya011103](https://github.com/manya011103) | Data Pipeline & Preprocessing | 🟢 Active  |
+| 3 | **Kumkum Soni** | [@Kumkum-Mohit-07-06](https://github.com/Kumkum-Mohit-07-06) | Data Pipeline & Preprocessing | 🟢 Active |
 
 ---
 
@@ -30,13 +30,13 @@
 
 | # | Task | Description | Owner | Status | Notes |
 |---|------|-------------|-------|--------|-------|
-| 2.1 | Register on PRADAN | Create account on [pradan.issdc.gov.in](https://pradan.issdc.gov.in/) | Kumkum | ⏳ | Free account |
-| 2.2 | Download DFSAR data | CH2-Dual Frequency SAR, south polar region, lat -89° to -85° | Kumkum | ⏳ | GeoTIFF or HDF5 format |
-| 2.3 | Download OHRC imagery | CH2-OHRC optical images of same region | Kumkum | ⏳ | For crater/shadow detection |
-| 2.4 | Write `preprocess.py` | Load + normalize radar data using `rasterio` | `[TBD]` | ⏳ | See `/pipeline/` folder |
-| 2.5 | Write `ice_mapper.py` | CPR threshold analysis → flag ice-probable cells | `[TBD]` | ⏳ | CPR > 1.0 → probable ice |
-| 2.6 | Write `hazard_mapper.py` | Crater + shadow detection from OHRC → flag hazard cells | `[TBD]` | ⏳ | |
-| 2.7 | Write `grid_converter.py` | Merge ice + hazard maps into AstroNav-compatible grid | `[TBD]` | ⏳ | Output: 2D array same format as astronav_env.py |
+| 2.1 | Register on PRADAN | Create account on [pradan.issdc.gov.in](https://pradan.issdc.gov.in/) | Kumkum & Manisha| 🟢 Active | Free account |
+| 2.2 | Download DFSAR data | CH2-Dual Frequency SAR, south polar region, lat -89° to -85° | Kumkum | 🟢 Active | GeoTIFF or HDF5 format |
+| 2.3 | Download OHRC imagery | CH2-OHRC optical images of same region | Manisha | 🟢 Active | For crater/shadow detection |
+| 2.4 | Write `preprocess.py` | Load + normalize radar data using `rasterio` | All | ⏳ | See `/pipeline/` folder |
+| 2.5 | Write `ice_mapper.py` | CPR threshold analysis → flag ice-probable cells | Yashika | 🟢 Active | CPR > 1.0 → probable ice |
+| 2.6 | Write `hazard_mapper.py` | Crater + shadow detection from OHRC → flag hazard cells | Kumkum & Manisha | ⏳ | 
+| 2.7 | Write `grid_converter.py` | Merge ice + hazard maps into AstroNav-compatible grid | All | ⏳ | Output: 2D array same format as astronav_env.py |
 
 ---
 
